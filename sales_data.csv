@@ -1,0 +1,101 @@
+CustomerID,OrderID,OrderDate,Product,Category,Price,Quantity
+C005,O0001,2024-04-05,iPhone Case,Accessories,25,4
+C002,O0002,2024-01-11,Backpack,Accessories,60,2
+C018,O0003,2024-01-31,Nike Shoes,Fashion,120,3
+C008,O0004,2024-01-03,Headphones,Electronics,150,1
+C012,O0005,2024-03-14,Laptop,Electronics,899,1
+C011,O0006,2024-01-11,Sunglasses,Fashion,75,4
+C004,O0007,2024-01-27,Backpack,Accessories,60,4
+C014,O0008,2024-01-10,iPhone Case,Accessories,25,2
+C008,O0009,2024-04-26,Mouse,Electronics,40,3
+C007,O0010,2024-03-30,Nike Shoes,Fashion,120,3
+C012,O0011,2024-04-11,Backpack,Accessories,60,1
+C006,O0012,2024-03-30,iPhone Case,Accessories,25,4
+C012,O0013,2024-04-06,Mouse,Electronics,40,4
+C017,O0014,2024-02-21,Mouse,Electronics,40,1
+C003,O0015,2024-04-03,Mouse,Electronics,40,3
+C014,O0016,2024-04-01,Nike Shoes,Fashion,120,3
+C016,O0017,2024-01-29,Nike Shoes,Fashion,120,2
+C017,O0018,2024-02-24,iPhone Case,Accessories,25,4
+C012,O0019,2024-02-24,T-shirt,Fashion,30,3
+C001,O0020,2024-04-16,iPhone Case,Accessories,25,3
+C011,O0021,2024-03-18,Headphones,Electronics,150,2
+C019,O0022,2024-02-01,Apple Watch,Electronics,199,2
+C017,O0023,2024-01-31,iPhone Case,Accessories,25,2
+C008,O0024,2024-04-03,Backpack,Accessories,60,4
+C003,O0025,2024-01-28,Backpack,Accessories,60,2
+C015,O0026,2024-03-15,T-shirt,Fashion,30,3
+C010,O0027,2024-02-11,Backpack,Accessories,60,2
+C007,O0028,2024-03-25,Apple Watch,Electronics,199,3
+C012,O0029,2024-01-17,Backpack,Accessories,60,3
+C013,O0030,2024-02-29,T-shirt,Fashion,30,4
+C008,O0031,2024-03-16,Laptop,Electronics,899,1
+C013,O0032,2024-01-21,Mouse,Electronics,40,3
+C013,O0033,2024-01-25,Headphones,Electronics,150,2
+C012,O0034,2024-04-06,Nike Shoes,Fashion,120,3
+C015,O0035,2024-01-22,Nike Shoes,Fashion,120,4
+C014,O0036,2024-03-22,Backpack,Accessories,60,4
+C017,O0037,2024-01-25,iPhone Case,Accessories,25,4
+C007,O0038,2024-04-07,Apple Watch,Electronics,199,1
+C004,O0039,2024-03-26,Laptop,Electronics,899,3
+C017,O0040,2024-03-31,Laptop,Electronics,899,2
+C018,O0041,2024-04-28,Backpack,Accessories,60,4
+C017,O0042,2024-03-19,Headphones,Electronics,150,4
+C020,O0043,2024-02-26,iPhone Case,Accessories,25,1
+C013,O0044,2024-02-18,Apple Watch,Electronics,199,1
+C011,O0045,2024-02-03,Nike Shoes,Fashion,120,2
+C013,O0046,2024-02-25,Nike Shoes,Fashion,120,1
+C006,O0047,2024-01-16,Monitor,Electronics,250,2
+C016,O0048,2024-04-29,Backpack,Accessories,60,3
+C001,O0049,2024-04-17,Nike Shoes,Fashion,120,3
+C005,O0050,2024-01-16,Laptop,Electronics,899,3
+C016,O0051,2024-04-23,Backpack,Accessories,60,2
+C003,O0052,2024-01-04,Sunglasses,Fashion,75,2
+C003,O0053,2024-03-27,Nike Shoes,Fashion,120,3
+C012,O0054,2024-03-16,T-shirt,Fashion,30,2
+C012,O0055,2024-02-25,Monitor,Electronics,250,3
+C016,O0056,2024-04-22,Nike Shoes,Fashion,120,3
+C020,O0057,2024-03-27,T-shirt,Fashion,30,1
+C007,O0058,2024-01-13,Monitor,Electronics,250,2
+C006,O0059,2024-04-27,T-shirt,Fashion,30,1
+C007,O0060,2024-04-23,T-shirt,Fashion,30,4
+C017,O0061,2024-03-20,Sunglasses,Fashion,75,3
+C006,O0062,2024-01-28,Nike Shoes,Fashion,120,3
+C012,O0063,2024-01-05,Nike Shoes,Fashion,120,3
+C012,O0064,2024-04-03,Laptop,Electronics,899,4
+C007,O0065,2024-02-19,T-shirt,Fashion,30,3
+C012,O0066,2024-02-14,Laptop,Electronics,899,3
+C011,O0067,2024-04-18,Sunglasses,Fashion,75,2
+C011,O0068,2024-03-22,Mouse,Electronics,40,1
+C015,O0069,2024-02-19,Mouse,Electronics,40,4
+C016,O0070,2024-03-11,Mouse,Electronics,40,2
+C013,O0071,2024-01-04,iPhone Case,Accessories,25,2
+C020,O0072,2024-04-02,Mouse,Electronics,40,4
+C003,O0073,2024-02-23,Sunglasses,Fashion,75,1
+C004,O0074,2024-04-04,iPhone Case,Accessories,25,4
+C020,O0075,2024-02-03,Backpack,Accessories,60,2
+C016,O0076,2024-01-07,Monitor,Electronics,250,1
+C017,O0077,2024-02-18,Laptop,Electronics,899,3
+C013,O0078,2024-04-24,T-shirt,Fashion,30,3
+C001,O0079,2024-04-09,Apple Watch,Electronics,199,2
+C009,O0080,2024-02-10,Headphones,Electronics,150,2
+C004,O0081,2024-04-28,Laptop,Electronics,899,3
+C004,O0082,2024-01-01,Headphones,Electronics,150,1
+C017,O0083,2024-02-25,Sunglasses,Fashion,75,2
+C007,O0084,2024-01-30,T-shirt,Fashion,30,4
+C018,O0085,2024-03-14,Headphones,Electronics,150,2
+C002,O0086,2024-03-11,Backpack,Accessories,60,2
+C012,O0087,2024-03-05,Apple Watch,Electronics,199,2
+C012,O0088,2024-02-14,Laptop,Electronics,899,2
+C019,O0089,2024-04-25,iPhone Case,Accessories,25,2
+C008,O0090,2024-01-06,Nike Shoes,Fashion,120,4
+C007,O0091,2024-03-10,Backpack,Accessories,60,3
+C008,O0092,2024-04-11,Laptop,Electronics,899,3
+C005,O0093,2024-02-25,Sunglasses,Fashion,75,1
+C003,O0094,2024-01-17,T-shirt,Fashion,30,4
+C005,O0095,2024-04-11,T-shirt,Fashion,30,4
+C007,O0096,2024-04-27,T-shirt,Fashion,30,4
+C013,O0097,2024-03-31,Apple Watch,Electronics,199,4
+C016,O0098,2024-02-02,Apple Watch,Electronics,199,2
+C009,O0099,2024-01-23,iPhone Case,Accessories,25,1
+C016,O0100,2024-02-15,Laptop,Electronics,899,1
